@@ -1,0 +1,7 @@
+Preparación,Modelo,F1 val. cruzada,desv.,F1 prueba,% predichos enfermos
+A. Solo imputación,SVM,0.288,0.088,0.353,21.053
+A. Solo imputación,Red neuronal,0.628,0.008,0.631,100.0
+B. + estandarización,SVM,0.818,0.027,0.829,46.053
+B. + estandarización,Red neuronal,0.757,0.049,0.822,50.0
+C. Pipeline completo,SVM,0.807,0.056,0.87,44.737
+C. Pipeline completo,Red neuronal,0.8,0.047,0.849,50.0

@@ -1,0 +1,4 @@
+,F1 entrenamiento,F1 prueba,Brecha
+SVM,0.833,0.87,-0.036
+Red neuronal,0.828,0.849,-0.021
+Red sin regularizar,1.0,0.773,0.227
